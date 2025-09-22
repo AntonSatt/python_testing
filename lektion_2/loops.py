@@ -10,9 +10,11 @@ while app_is_running == True:
 
     if (menu_choice == "1"):
         print("Menu 1 vald!")
+        sys.exit() 
     elif (menu_choice == "2"):
         print("Menu 2 vald!")
+        sys.exit() 
     else:
         print("Inkorrekt val!")
 
-    sys.exit()    
+       
