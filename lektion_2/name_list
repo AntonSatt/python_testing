@@ -1,0 +1,10 @@
+
+
+name_list = ["Calle", "Bert", "Adam"]
+
+print(name_list[0])
+
+phone_name_dict = {"000000": "Calle", "111111": "Johan",}
+
+
+print(phone_name_dict["111111"])
